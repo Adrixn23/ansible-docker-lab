@@ -78,5 +78,4 @@ ansible-playbook -i inventory.ini playbook.yml
 ## Captura de Pantalla
 A continuación se muestra la evidencia de la ejecución exitosa del playbook:
 
-*(Coloca aquí tu captura de pantalla de la terminal)*
 ![Ejecución Exitosa del Playbook](screenshot.png)
